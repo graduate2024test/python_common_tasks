@@ -1,0 +1,21 @@
+{
+	"people1":[
+		{
+			"name": "AAA",
+			"website": "aaa.com",
+			"from": "Aaa"
+		},
+		{
+			"name": "BBB",
+			"website": "bbb.com",
+			"from": "Bbb"
+		}
+	],
+	"people2":[
+		{
+			"name": "AA2",
+			"website": "aa2.com",
+			"from": "Aa2"
+		}
+	]
+}
